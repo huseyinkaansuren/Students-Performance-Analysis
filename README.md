@@ -65,4 +65,5 @@ This was a weekly revision project focused on exploratory data analysis and simp
 **[Huseyin Kaan Suren]**  
 *Data Scientist*  
 📧 huseyinkaansuren@gmail.com  
-🌐 [LinkedIn Profile]([https://www.linkedin.com/in/huseyinkaansuren/](https://www.linkedin.com/in/huseyinkaansuren/))
+🌐 [LinkedIn Profile](https://www.linkedin.com/in/huseyinkaansuren/)
+
